@@ -4,8 +4,8 @@ Full-stack app for uploading an image, removing the background, flipping it hori
 
 ## Live URLs
 
-- Frontend: 
-- Backend: 
+- Frontend: https://image-transformation-service-rouge.vercel.app/
+- Backend: https://image-transformation-service-a41g.onrender.com
 
 ## Repository Structure
 
@@ -113,7 +113,6 @@ Response:
 }
 ```
 
-## Deployment
 
 ## Notes
 
